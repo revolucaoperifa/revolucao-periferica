@@ -4,4 +4,5 @@
 
 layout: home
 background: '/assets/background.jpg'
+lang: pt
 ---
